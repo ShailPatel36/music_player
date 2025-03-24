@@ -1,0 +1,15 @@
+{
+  "name": "my-music-player",
+  "version": "1.0.0",
+  "description": "A music player application",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "MIT"
+}
